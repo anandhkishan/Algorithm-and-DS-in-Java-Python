@@ -1,0 +1,12 @@
+Data Structures:
+   Data Structures are the way to store and organise data in a computer so that they can be used efficiently.
+
+Example:
+    - English Dictionary: This is a sorted data of words
+    - Map: 2D geometric which enables us to find the shortest distance from one path to another (2D array)
+    - Daily DataStore: Various data stored and retrieved and calculated (Excel, Google sheets, DataBase)
+
+Other things to remember:
+    - Abstract Data Type: ADT defines data and operations but hides the implementation (OOPS concept - Encapsulation?)
+            eg: Arrays which is used to store values in contiguous memory location
+    
